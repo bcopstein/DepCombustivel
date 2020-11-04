@@ -45,6 +45,7 @@ public class DepComb {
 	}
 
 	private double procuraMaisEscasso() {
+		// comentario
 		List<Double> combustiveis = new ArrayList<>();
 		combustiveis.add((double) tAditivo / MAX_ADITIVO);
 		combustiveis.add((double) tGasolina / MAX_GASOLINA);
