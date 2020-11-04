@@ -12,6 +12,9 @@
         <java.version>14</java.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <sonar.projectKey>bcopstein_DepCombustivel</sonar.projectKey>
+        <sonar.organization>bcopstein</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>
